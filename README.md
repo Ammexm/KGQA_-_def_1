@@ -6,7 +6,8 @@ python 3.7
 
 示例：
 1.查询科室
-
+ ![image](https://github.com/Ammexm/KGQA_def_1/blob/master/document/check_department.png)
 2.查询药品
-
+ ![image](https://github.com/Ammexm/KGQA_def_1/blob/master/document/check_drug.png)
 3.查询疾病
+ ![image](https://github.com/Ammexm/KGQA_def_1/blob/master/document/check_disease.png)
